@@ -9,7 +9,7 @@
 
 ## Why I Have Created This?
 
-There are many boilerplates available on the internet which providers a server app with nodejs, express & typescript but I found them either too complex for my use case or too simple whhere I need to configure lot of features later. So I build this repo to be used in projects which are simple & doesn't require lot of unnecessary tooling.
+There are many boilerplates available on the internet which providers a server app with nodejs, express & typescript but I found them either too complex for my use case or too simple where I need to configure lot of features later. So I build this repo to be used in projects which are simple & doesn't require lot of unnecessary tooling.
 
 <br>
 
